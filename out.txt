@@ -1,0 +1,5840 @@
+!!!32 neurons!!!!!generations_num : 10
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 20
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 30
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,44
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 40
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 50
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 60
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 70
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 80
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,54
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 90
+Training entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,43
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 100
+Training entities
+Class № 0 RMSE = 0,68
+Class № 1 RMSE = 0,63
+
+Test entities
+Class № 0 RMSE = 0,60
+Class № 1 RMSE = 0,57
+
+
+!!generations_num : 110
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 120
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 130
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 140
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,61
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,55
+
+
+!!generations_num : 150
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 160
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 170
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 180
+Training entities
+Class № 0 RMSE = 0,54
+Class № 1 RMSE = 0,59
+
+Test entities
+Class № 0 RMSE = 0,46
+Class № 1 RMSE = 0,54
+
+
+!!generations_num : 190
+Training entities
+Class № 0 RMSE = 0,49
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 200
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 210
+Training entities
+Class № 0 RMSE = 0,58
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,50
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 220
+Training entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,54
+
+Test entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 230
+Training entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 240
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 250
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 260
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 270
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 280
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 290
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,62
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,56
+
+
+!!generations_num : 300
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 310
+Training entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 320
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 330
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 340
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 350
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 360
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 370
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,51
+
+
+!!generations_num : 380
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,59
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,54
+
+
+!!generations_num : 390
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,48
+
+
+!!generations_num : 400
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 410
+Training entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 420
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 430
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 440
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,62
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,57
+
+
+!!generations_num : 450
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,50
+
+
+!!generations_num : 460
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 470
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 480
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 490
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 500
+Training entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 510
+Training entities
+Class № 0 RMSE = 0,44
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 520
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 530
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,50
+
+
+!!generations_num : 540
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 550
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,52
+
+
+!!generations_num : 560
+Training entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 570
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 580
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,50
+
+
+!!generations_num : 590
+Training entities
+Class № 0 RMSE = 0,45
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 600
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 610
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 620
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,58
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,53
+
+
+!!generations_num : 630
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 640
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,40
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,48
+
+
+!!generations_num : 650
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,53
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,48
+
+
+!!generations_num : 660
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,64
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,59
+
+
+!!generations_num : 670
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 680
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 690
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 700
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 710
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 720
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 730
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 740
+Training entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 750
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 760
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 770
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 780
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 790
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,43
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 800
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 810
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 820
+Training entities
+Class № 0 RMSE = 0,62
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,54
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 830
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 840
+Training entities
+Class № 0 RMSE = 0,47
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 850
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 860
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 870
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 880
+Training entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,40
+
+Test entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 890
+Training entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 900
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 910
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 920
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 930
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,51
+
+
+!!generations_num : 940
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 950
+Training entities
+Class № 0 RMSE = 0,65
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,57
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 960
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,51
+
+
+!!generations_num : 970
+Training entities
+Class № 0 RMSE = 0,60
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,51
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 980
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 990
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1000
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1010
+Training entities
+Class № 0 RMSE = 0,65
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,58
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1020
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1030
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 1040
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,51
+
+
+!!generations_num : 1050
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1060
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,59
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,54
+
+
+!!generations_num : 1070
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1080
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 1090
+Training entities
+Class № 0 RMSE = 0,47
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 1100
+Training entities
+Class № 0 RMSE = 0,58
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,50
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1110
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 1120
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1130
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,40
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 1140
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1150
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 1160
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 1170
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 1180
+Training entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1190
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1200
+Training entities
+Class № 0 RMSE = 0,68
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,61
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 1210
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1220
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1230
+Training entities
+Class № 0 RMSE = 0,63
+Class № 1 RMSE = 0,40
+
+Test entities
+Class № 0 RMSE = 0,55
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 1240
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1250
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,51
+
+
+!!generations_num : 1260
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,48
+
+
+!!generations_num : 1270
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1280
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,48
+
+
+!!generations_num : 1290
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1300
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,61
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,56
+
+
+!!generations_num : 1310
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,63
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,57
+
+
+!!generations_num : 1320
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 1330
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 1340
+Training entities
+Class № 0 RMSE = 0,67
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,60
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 1350
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 1360
+Training entities
+Class № 0 RMSE = 0,64
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,56
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1370
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 1380
+Training entities
+Class № 0 RMSE = 0,57
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,49
+Class № 1 RMSE = 0,50
+
+
+!!generations_num : 1390
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1400
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1410
+Training entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1420
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1430
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,50
+
+Test entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 1440
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1450
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,56
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,51
+
+
+!!generations_num : 1460
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1470
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1480
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 1490
+Training entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,43
+Class № 1 RMSE = 0,52
+
+
+!!generations_num : 1500
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1510
+Training entities
+Class № 0 RMSE = 0,60
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,51
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1520
+Training entities
+Class № 0 RMSE = 0,69
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,61
+Class № 1 RMSE = 0,50
+
+
+!!generations_num : 1530
+Training entities
+Class № 0 RMSE = 0,64
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,56
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 1540
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 1550
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1560
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,63
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,58
+
+
+!!generations_num : 1570
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 1580
+Training entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,63
+
+Test entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,57
+
+
+!!generations_num : 1590
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 1600
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1610
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1620
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1630
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1640
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1650
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1660
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,50
+
+
+!!generations_num : 1670
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 1680
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1690
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 1700
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 1710
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,65
+
+Test entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,59
+
+
+!!generations_num : 1720
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1730
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1740
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 1750
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1760
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1770
+Training entities
+Class № 0 RMSE = 0,65
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,57
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1780
+Training entities
+Class № 0 RMSE = 0,51
+Class № 1 RMSE = 0,58
+
+Test entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,53
+
+
+!!generations_num : 1790
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 1800
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,44
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,52
+
+
+!!generations_num : 1810
+Training entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,59
+
+Test entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,54
+
+
+!!generations_num : 1820
+Training entities
+Class № 0 RMSE = 0,41
+Class № 1 RMSE = 0,42
+
+Test entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1830
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 1840
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,56
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,51
+
+
+!!generations_num : 1850
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1860
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,54
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,49
+
+
+!!generations_num : 1870
+Training entities
+Class № 0 RMSE = 0,63
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,55
+Class № 1 RMSE = 0,52
+
+
+!!generations_num : 1880
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1890
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 1900
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,64
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,58
+
+
+!!generations_num : 1910
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1920
+Training entities
+Class № 0 RMSE = 0,65
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,57
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 1930
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 1940
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1950
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1960
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1970
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1980
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1990
+Training entities
+Class № 0 RMSE = 0,42
+Class № 1 RMSE = 0,45
+
+Test entities
+Class № 0 RMSE = 0,43
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 2000
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 2010
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,52
+
+
+!!generations_num : 2020
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,47
+
+
+!!generations_num : 2030
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 2040
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 2050
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 2060
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 2070
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 2080
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 2090
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 2100
+Training entities
+Class № 0 RMSE = 0,37
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 2110
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 2120
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 2130
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,46
+
+
+!!generations_num : 2140
+Training entities
+Class № 0 RMSE = 0,40
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,45
+
+
+!!generations_num : 2150
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,43
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,39
+
+
+!!!32 neurons!!!!!generations_num : 10
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 20
+Training entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,18
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 30
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 40
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,39
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 50
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 60
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 70
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 80
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 90
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 100
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 110
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 120
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,37
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 130
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 140
+Training entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 150
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,40
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 160
+Training entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 170
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 180
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 190
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,44
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 200
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 210
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,46
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 220
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,45
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 230
+Training entities
+Class № 0 RMSE = 0,52
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,43
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 240
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 250
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 260
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,41
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 270
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 280
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 290
+Training entities
+Class № 0 RMSE = 0,39
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 300
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 310
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 320
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 330
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 340
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 350
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 360
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 370
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 380
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 390
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 400
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 410
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 420
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 430
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 440
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 450
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 460
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 470
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 480
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 490
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 500
+Training entities
+Class № 0 RMSE = 0,38
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 510
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 520
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 530
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 540
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 550
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 560
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 570
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 580
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 590
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 600
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 610
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 620
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 630
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 640
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 650
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 660
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 670
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 680
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 690
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 700
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 710
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 720
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 730
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 740
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 750
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 760
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 770
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 780
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 790
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 800
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 810
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 820
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 830
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 840
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 850
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 860
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 870
+Training entities
+Class № 0 RMSE = 0,45
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 880
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 890
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 900
+Training entities
+Class № 0 RMSE = 0,36
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 910
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 920
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 930
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 940
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 950
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 960
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 970
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 980
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 990
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1000
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,46
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1010
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1020
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1030
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1040
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1050
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,44
+
+
+!!generations_num : 1060
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1070
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 1080
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1090
+Training entities
+Class № 0 RMSE = 0,35
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1100
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 1110
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1120
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1130
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1140
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1150
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1160
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1170
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1180
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1190
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1200
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1210
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1220
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1230
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1240
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 1250
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1260
+Training entities
+Class № 0 RMSE = 0,43
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1270
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1280
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1290
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1300
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,47
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,42
+
+
+!!generations_num : 1310
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1320
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1330
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1340
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1350
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1360
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1370
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1380
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 1390
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1400
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1410
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1420
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1430
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,36
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 1440
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1450
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 1460
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1470
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1480
+Training entities
+Class № 0 RMSE = 0,44
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 1490
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 1500
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1510
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 1520
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1530
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1540
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1550
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 1560
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 1570
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1580
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,34
+
+
+!!generations_num : 1590
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1600
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1610
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1620
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1630
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,40
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1640
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1650
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1660
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1670
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1680
+Training entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1690
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1700
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 1710
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1720
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1730
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,39
+
+
+!!generations_num : 1740
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,35
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,43
+
+
+!!generations_num : 1750
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1760
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 1770
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1780
+Training entities
+Class № 0 RMSE = 0,34
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1790
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,32
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,40
+
+
+!!generations_num : 1800
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 1810
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 1820
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,38
+
+
+!!generations_num : 1830
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1840
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,30
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,37
+
+
+!!generations_num : 1850
+Training entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,28
+
+Test entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 1860
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1870
+Training entities
+Class № 0 RMSE = 0,33
+Class № 1 RMSE = 0,29
+
+Test entities
+Class № 0 RMSE = 0,32
+Class № 1 RMSE = 0,36
+
+
+!!generations_num : 1880
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,29
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 1890
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1900
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,31
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 1910
+Training entities
+Class № 0 RMSE = 0,31
+Class № 1 RMSE = 0,33
+
+Test entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,41
+
+
+!!generations_num : 1920
+Training entities
+Class № 0 RMSE = 0,30
+Class № 1 RMSE = 0,34
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 1930
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,38
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,35
+
+
+!!generations_num : 10
+Training entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 10
+Training entities
+Class № 0 RMSE = 0,28
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,30
+
+
+START!!!32 neurons!!!!!generations_num : 10
+Training entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 20
+Training entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,27
+
+Test entities
+Class № 0 RMSE = 0,21
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 30
+Training entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,18
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 40
+Training entities
+Class № 0 RMSE = 0,26
+Class № 1 RMSE = 0,25
+
+Test entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 50
+Training entities
+Class № 0 RMSE = 0,25
+Class № 1 RMSE = 0,26
+
+Test entities
+Class № 0 RMSE = 0,23
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 60
+Training entities
+Class № 0 RMSE = 0,24
+Class № 1 RMSE = 0,19
+
+Test entities
+Class № 0 RMSE = 0,22
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 70
+Training entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,22
+
+Test entities
+Class № 0 RMSE = 0,13
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 80
+Training entities
+Class № 0 RMSE = 0,27
+Class № 1 RMSE = 0,19
+
+Test entities
+Class № 0 RMSE = 0,16
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 90
+Training entities
+Class № 0 RMSE = 0,17
+Class № 1 RMSE = 0,16
+
+Test entities
+Class № 0 RMSE = 0,13
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 100
+Training entities
+Class № 0 RMSE = 0,20
+Class № 1 RMSE = 0,18
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 110
+Training entities
+Class № 0 RMSE = 0,14
+Class № 1 RMSE = 0,16
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 120
+Training entities
+Class № 0 RMSE = 0,14
+Class № 1 RMSE = 0,15
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 130
+Training entities
+Class № 0 RMSE = 0,18
+Class № 1 RMSE = 0,18
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 140
+Training entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,15
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 150
+Training entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,15
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 160
+Training entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,15
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 170
+Training entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 180
+Training entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 190
+Training entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,17
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,31
+
+
+!!generations_num : 200
+Training entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,18
+
+Test entities
+Class № 0 RMSE = 0,13
+Class № 1 RMSE = 0,33
+
+
+!!generations_num : 210
+Training entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 220
+Training entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,17
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,32
+
+
+!!generations_num : 230
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 240
+Training entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 250
+Training entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 260
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 270
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 280
+Training entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 290
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 300
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 310
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 320
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 330
+Training entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 340
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 350
+Training entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,12
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 360
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 370
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,30
+
+
+!!generations_num : 380
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 390
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 400
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 410
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 420
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 430
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,20
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 440
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 450
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 460
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 470
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,18
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 480
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 490
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 500
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 510
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 520
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 530
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,28
+
+
+!!generations_num : 540
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 550
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 560
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 570
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 580
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 590
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 600
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 610
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 620
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 630
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 640
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 650
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,15
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 660
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 670
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 680
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,20
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 690
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 700
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 710
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 720
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 730
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 740
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 750
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 760
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 770
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 780
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 790
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 800
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 810
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 820
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 830
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 840
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 850
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 860
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 870
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 880
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 890
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,14
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 900
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 910
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 920
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 930
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 940
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,21
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,26
+
+
+!!generations_num : 950
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,19
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 960
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 970
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 980
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 990
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 1000
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1010
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1020
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1030
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 1040
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1050
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,27
+
+
+!!generations_num : 1060
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1070
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1080
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 1090
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,11
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 1100
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,20
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,25
+
+
+!!generations_num : 1110
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1120
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1130
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1140
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1150
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1160
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1170
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1180
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1190
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1200
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 1210
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1220
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1230
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1240
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1250
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1260
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1270
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1280
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1290
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,13
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1300
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,19
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1310
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1320
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,16
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,29
+
+
+!!generations_num : 1330
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1340
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,10
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1350
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1360
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1370
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,17
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1380
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1390
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,11
+Class № 1 RMSE = 0,22
+
+
+!!generations_num : 1400
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1410
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1420
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1430
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1440
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1450
+Training entities
+Class № 0 RMSE = 0,05
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1460
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1470
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1480
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1490
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1500
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1510
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1520
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1530
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1540
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1550
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1560
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,18
+
+
+!!generations_num : 1570
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1580
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,20
+
+
+!!generations_num : 1590
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,18
+
+
+!!generations_num : 1600
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,18
+
+
+!!generations_num : 1610
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1620
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1630
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1640
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,18
+
+
+!!generations_num : 1650
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,10
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,23
+
+
+!!generations_num : 1660
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,09
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,21
+
+
+!!generations_num : 1670
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,18
+
+
+!!generations_num : 1680
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,12
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,24
+
+
+!!generations_num : 1690
+Training entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,07
+
+Test entities
+Class № 0 RMSE = 0,12
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1700
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,09
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1710
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,07
+
+Test entities
+Class № 0 RMSE = 0,07
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1720
+Training entities
+Class № 0 RMSE = 0,04
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,06
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1730
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,08
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,19
+
+
+!!generations_num : 1740
+Training entities
+Class № 0 RMSE = 0,03
+Class № 1 RMSE = 0,07
+
+Test entities
+Class № 0 RMSE = 0,08
+Class № 1 RMSE = 0,18
+
+
